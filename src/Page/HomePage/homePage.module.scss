@@ -1,0 +1,59 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  height: calc(100vh);
+  background: linear-gradient(0deg, #000 0%, #000 100%),
+    lightgray -446.56px -317.009px / 342.315% 164.03% no-repeat;
+  background-image: url(../../../assets/image/imageFon1.png);
+  background-size: cover, cover;
+  background-repeat: no-repeat;
+
+  @media screen and (min-width: 768px) {
+    background-image: url(../../../assets/image/imagePl.png);
+  }
+  @media screen and (min-width: 1024px) {
+    background-image: url(../../../assets/image/imageD.png);
+  }
+  @media screen and (min-width: 2560px) {
+    background-image: url(../../../assets/image/Rectangle29.png);
+  }
+}
+
+.title{
+    margin-bottom: 21px;
+font-size: 40px;
+font-family: Nunito;
+line-height: 40px;
+
+color: #FFF;
+text-align: center;
+}
+.text{
+    margin-bottom: 32px;
+    color: #FFF;
+text-align: center;
+/* Body 16 */
+font-size: 16px;
+font-family: Nunito;
+line-height: 26px;
+}
+.button{
+    width: 100px;
+height: 34px;
+border-radius: 80px;
+background: var(--primary, #F4E041);
+    color: var(--black-87, rgba(0, 0, 0, 0.87));
+text-align: center;
+/* Body 16 */
+font-size: 16px;
+font-family: Nunito;
+line-height: 26px;
+}
+.button:hover{
+    background: #FFE302;
+}
+.button:focus{
+    background: #FFE302;
+}

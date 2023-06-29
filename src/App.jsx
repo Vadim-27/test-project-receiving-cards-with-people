@@ -1,6 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
 import Navbar from "modules/Navbar/Navbar";
+import HomePage from "Page/HomePage/HomePage";
 import PageUsers from "Page/PageUsers";
 
 export const App = () => {
@@ -8,6 +9,7 @@ export const App = () => {
     <>
       <Navbar />
       <Routes>
+        <Route path="/" element={ <HomePage/>} />
         <Route path="/users" element={<PageUsers />} />
       </Routes>
     </>
