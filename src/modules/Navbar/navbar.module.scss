@@ -1,0 +1,30 @@
+@import "../../Utils/base.scss";
+.wrapper{
+    padding: 16px;
+    background: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.wrapperButton{
+    display: flex;
+    gap: 10px;
+}
+.button{
+    width: 100px;
+height: 34px;
+border-radius: 80px;
+background: var(--primary, #F4E041);
+color: var(--black-87, rgba(0, 0, 0, 0.87));
+text-align: center;
+/* Body 16 */
+font-size: 16px;
+font-family: Nunito;
+line-height: 26px;
+}
+.button:hover{
+    background: #FFE302;
+}
+.button:focus{
+    background: #FFE302;
+}

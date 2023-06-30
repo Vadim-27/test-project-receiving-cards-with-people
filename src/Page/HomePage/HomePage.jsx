@@ -2,7 +2,7 @@ import css from './homePage.module.scss'
 
 const HomePage = () => {
     return (
-      <div className={css.wrapper}>
+      <div className={`${css.wrapper} ${css.container}`}>
         <h1 className={css.title}>Test assignment for front-end developer</h1>
         <p className={css.text}>
           What defines a good front-end developer is one that has skilled

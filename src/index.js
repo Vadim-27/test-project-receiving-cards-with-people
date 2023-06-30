@@ -7,9 +7,9 @@ import './index.scss';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter basename="test-project-receiving-cards-with-people">
-      <div className='container'>
+      {/* <div className='container'> */}
         <App />
-      </div>
+      {/* </div> */}
     </BrowserRouter>
   </React.StrictMode>
 );

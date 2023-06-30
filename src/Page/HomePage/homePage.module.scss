@@ -1,3 +1,7 @@
+@import "../../Utils/base.scss";
+
+
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -6,15 +10,15 @@
   height: calc(100vh);
   background: linear-gradient(0deg, #000 0%, #000 100%),
     lightgray -446.56px -317.009px / 342.315% 164.03% no-repeat;
-  background-image: url(../../../assets/image/imageFon1.png);
+  background-image: url(../../../assets/image/imageFon2x.png), url(../../../assets/image/imageFon1.png);
   background-size: cover, cover;
   background-repeat: no-repeat;
 
   @media screen and (min-width: 768px) {
-    background-image: url(../../../assets/image/imagePl.png);
+    background-image: url(../../../assets/image/imagePl2x.png), url(../../../assets/image/imagePl.png);
   }
   @media screen and (min-width: 1024px) {
-    background-image: url(../../../assets/image/imageD.png);
+    background-image: url(../../../assets/image/imageD2x.png), url(../../../assets/image/imageD.png);
   }
   @media screen and (min-width: 2560px) {
     background-image: url(../../../assets/image/Rectangle29.png);
