@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/test-project-receiving-cards-with-people/static/css/main.7acaea2f.css",
-    "main.js": "/test-project-receiving-cards-with-people/static/js/main.d4824c47.js",
+    "main.css": "/test-project-receiving-cards-with-people/static/css/main.28acfc7f.css",
+    "main.js": "/test-project-receiving-cards-with-people/static/js/main.d0051cf3.js",
+    "static/media/imageD2x.png": "/test-project-receiving-cards-with-people/static/media/imageD2x.686718de179f4712abcf.png",
+    "static/media/imagePl2x.png": "/test-project-receiving-cards-with-people/static/media/imagePl2x.65eb8b191fcceecf6051.png",
+    "static/media/Rectangle29.png": "/test-project-receiving-cards-with-people/static/media/Rectangle29.52f4630d265e6366b262.png",
+    "static/media/imageFon2x.png": "/test-project-receiving-cards-with-people/static/media/imageFon2x.ef561cd8b08d2240f5f2.png",
+    "static/media/imageD.png": "/test-project-receiving-cards-with-people/static/media/imageD.696aff6dd045e8ce0804.png",
+    "static/media/imagePl.png": "/test-project-receiving-cards-with-people/static/media/imagePl.b46179e8ba0757dea35d.png",
+    "static/media/imageFon1.png": "/test-project-receiving-cards-with-people/static/media/imageFon1.b5eab983598e6856df1a.png",
+    "static/media/Nunito-Regular.ttf": "/test-project-receiving-cards-with-people/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
     "index.html": "/test-project-receiving-cards-with-people/index.html",
-    "main.7acaea2f.css.map": "/test-project-receiving-cards-with-people/static/css/main.7acaea2f.css.map",
-    "main.d4824c47.js.map": "/test-project-receiving-cards-with-people/static/js/main.d4824c47.js.map"
+    "main.28acfc7f.css.map": "/test-project-receiving-cards-with-people/static/css/main.28acfc7f.css.map",
+    "main.d0051cf3.js.map": "/test-project-receiving-cards-with-people/static/js/main.d0051cf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.d4824c47.js"
+    "static/css/main.28acfc7f.css",
+    "static/js/main.d0051cf3.js"
   ]
 }
