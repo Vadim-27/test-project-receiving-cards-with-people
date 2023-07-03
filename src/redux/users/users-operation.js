@@ -7,9 +7,10 @@ export const fetchAllUsers = createAsyncThunk(
     async (_, { rejectWithValue }) => {
         try {
             const result = await api.getAllUsers();
-            return result;
-        } catch ({ responce }) {
-            return rejectWithValue(responce);
+            console.log("resultOO", result)
+          return result;
+        } catch ({ response }) {
+          return rejectWithValue(response);
         }
     }
 );
