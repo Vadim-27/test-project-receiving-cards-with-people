@@ -15,10 +15,11 @@ const Navbar = () => {
               Users
             </button>
           </Link>
-
-          <button type="button" className={css.button}>
-            Sign up
-          </button>
+          <Link to={'/register'}>
+            <button type="button" className={css.button}>
+              Sign up
+            </button>
+          </Link>
         </div>
       </div>
     );

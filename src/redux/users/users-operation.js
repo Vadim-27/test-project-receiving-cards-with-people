@@ -4,9 +4,10 @@ import * as api from '../../shared/services/usersApi';
 
 export const fetchAllUsers = createAsyncThunk(
     'users/all',
-    async (_, { rejectWithValue }) => {
+    async (data, { rejectWithValue }) => {
+        console.log("data", data)
         try {
-            const result = await api.getAllUsers();
+            const result = await api.getAllUsers(data);
             console.log("resultOO", result)
           return result;
         } catch ({ response }) {
