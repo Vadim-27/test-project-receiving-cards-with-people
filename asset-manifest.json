@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test-project-receiving-cards-with-people/static/css/main.28acfc7f.css",
-    "main.js": "/test-project-receiving-cards-with-people/static/js/main.efb591b2.js",
+    "main.css": "/test-project-receiving-cards-with-people/static/css/main.e95c8e3e.css",
+    "main.js": "/test-project-receiving-cards-with-people/static/js/main.5d59d1b7.js",
     "static/media/imageD2x.png": "/test-project-receiving-cards-with-people/static/media/imageD2x.686718de179f4712abcf.png",
     "static/media/imagePl2x.png": "/test-project-receiving-cards-with-people/static/media/imagePl2x.65eb8b191fcceecf6051.png",
     "static/media/Rectangle29.png": "/test-project-receiving-cards-with-people/static/media/Rectangle29.52f4630d265e6366b262.png",
@@ -11,11 +11,11 @@
     "static/media/imageFon1.png": "/test-project-receiving-cards-with-people/static/media/imageFon1.b5eab983598e6856df1a.png",
     "static/media/Nunito-Regular.ttf": "/test-project-receiving-cards-with-people/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
     "index.html": "/test-project-receiving-cards-with-people/index.html",
-    "main.28acfc7f.css.map": "/test-project-receiving-cards-with-people/static/css/main.28acfc7f.css.map",
-    "main.efb591b2.js.map": "/test-project-receiving-cards-with-people/static/js/main.efb591b2.js.map"
+    "main.e95c8e3e.css.map": "/test-project-receiving-cards-with-people/static/css/main.e95c8e3e.css.map",
+    "main.5d59d1b7.js.map": "/test-project-receiving-cards-with-people/static/js/main.5d59d1b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.28acfc7f.css",
-    "static/js/main.efb591b2.js"
+    "static/css/main.e95c8e3e.css",
+    "static/js/main.5d59d1b7.js"
   ]
 }
